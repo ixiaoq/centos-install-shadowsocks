@@ -24,6 +24,13 @@
   
 >（按照提示内容，设置对应的信息）
 
+Please enter password for ShadowsocksR            Shadowsocks密码，请自行设定
+
+Please enter a port for ShadowsocksR [1-65535]    建议使用：443
+
+Please select stream cipher for ShadowsocksR      建议选择：chacha20-ietf
+
+
 恭喜你，安装完成！！！！
 
 --------------------------------------------------------------------------------------
